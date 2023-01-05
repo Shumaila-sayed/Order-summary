@@ -21,7 +21,7 @@ body{
     border-radius: 15px;
     margin: auto;
     width: 30em;
-    height: 40.0em;
+    height: 45.0em;
 }
 
  #hero-img {
@@ -48,8 +48,10 @@ h1 {
     align-items: center;
     justify-content: space-around;
     border-radius: 10px;
-    margin-left: 4.3em;
+    margin: auto;
     padding: 10px;
+    position: relative;
+    top: 2em;
 }
 
 #annual-plan{
@@ -92,9 +94,11 @@ button{
     width: 26em;
     font-weight: 500;
     border: none;
-    height: 2.5rem;
+    height: 3rem;
     border-radius: 10px;
     box-shadow: 0em 0.8em  2.1em 0em hsl(224, 23%, 55%);
+    position: relative;
+    top: 5em;
 }
  
 .btn-1:hover{
@@ -113,5 +117,5 @@ button{
      font-weight: 900;
       background-color: white ;
       position: relative;
-      top: 4em;
+      top: 8em;
 }
