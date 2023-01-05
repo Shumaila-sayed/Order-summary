@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+.attribution {
+     font-size: 11px; 
+     text-align: center; }
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+ 
+body{
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    font-family: 'Red Hat Display', sans-serif;
+    background-color: hsl(225, 100%, 94%) ;
+    padding: 5em;
+}
+
+#card{
+    background-color: white;
+    border-radius: 15px;
+    margin: auto;
+    width: 450px;
+    height: 40.0em;
+}
+
+ #hero-img {
+    object-fit: fill;
+    border-radius: 10px 10px 0px 0px;
+}
+
+h3 {
+    color:  hsl(223, 47%, 23%);
+    font-weight: 900;
+    text-align: center;
+}
+#text {
+    text-align: center;
+    font-weight: light;
+    font-size: 16px;
+    color: hsl(224, 23%, 55%);
+}
+
+#plan {
+    display: flex;
+    background-color: hsl(225, 100%, 98%);
+    width: 20em;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    margin-left: 4.3em;
+    padding: 10px;
+}
+
+#annual-plan{
+    color: hsl(223, 47%, 23%);
+    font-weight: 900;
+}
+
+#price{
+    margin-top: -0.9em;
+    color: hsl(224, 23%, 55%);
+    font-weight: light;
+}
+
+#music{
+    margin-left: -2em;
+    width: 13%;
+}
+
+
+#annual-text{
+    margin-left: -5em;
+    font-size: small;
+}
+
+a{
+    font-size: small;
+}
+
+button{
+    position: relative;
+    top: 1.5em;
+    display: flex;
+    align-items: center;
+    margin: auto;
+    
+}
+
+.btn-1{
+    background-color: hsl(245, 75%, 52%);
+    width: 26em;
+    font-weight: 500;
+    border: none;
+    height: 2.5rem;
+    border-radius: 10px;
+    box-shadow: 0em 0.8em  2.1em 0em hsl(224, 23%, 55%);
+}
+ 
+.btn-1:hover{
+    background-color:  hsl(223, 47%, 23%);
+    
+}
+
+#proceed{ color: hsl(225, 100%, 98%);
+    font-size: -5em;
+    margin: auto;
+}
+
+#cancel{
+    border: none;
+     color:hsl(224, 23%, 55%);
+     font-weight: 900;
+      background-color: white ;
+      position: relative;
+      top: 4em;
+}
