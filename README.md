@@ -21,18 +21,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Screenshot%20(4893).png
+![](./images/Screenshot%20(4893).png)
 
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://imaginative-alpaca-484868.netlify.app/)
+- Live Site URL: [Here](https://imaginative-alpaca-484868.netlify.app/)
 
 ```
-
-
-
 ## Author
 
 - Twitter - [@yourusername](https://twitter.com/Heyyshum)
