@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://your-solution-url.com)
 - Live Site URL: [Here](https://imaginative-alpaca-484868.netlify.app/)
 
-```
+
 ## Author
 
-- Twitter - [@yourusername](https://twitter.com/Heyyshum)
+- Twitter - [@Heyyshum](https://twitter.com/Heyyshum)
 
