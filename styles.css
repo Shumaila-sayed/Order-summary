@@ -14,6 +14,10 @@ body{
     font-family: 'Red Hat Display', sans-serif;
     background-color: hsl(225, 100%, 94%) ;
     padding: 5em;
+    min-height:100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
 }
 
 #card{
@@ -96,7 +100,7 @@ button{
     border: none;
     height: 3rem;
     border-radius: 10px;
-    box-shadow: 0em 0.8em  2.1em 0em hsl(224, 23%, 55%);
+    box-shadow: 0em 0.8em  2em 0em hsl(224, 23%, 55%);
     position: relative;
     top: 5em;
 }
