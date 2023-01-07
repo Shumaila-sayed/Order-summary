@@ -13,7 +13,7 @@ body{
     background-repeat: no-repeat;
     font-family: 'Red Hat Display', sans-serif;
     background-color: hsl(225, 100%, 94%) ;
-    padding: 3em 6em;
+    padding: 3em;
     min-height:100vh; 
     display: flex; 
     align-items: center; 
@@ -26,7 +26,6 @@ body{
     margin: auto;
     width: 30em;
     height: 45.0em;
-    
 }
 
  #hero-img {
